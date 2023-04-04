@@ -195,8 +195,6 @@ public class ElementGame {
             clearConsole();
 
             playerMove -= 1;
-            System.out.println(playerMove);
-            System.out.println(enemyMove);
 
             System.out.println();
             System.out.println("══════════════════════════════════════════");
