@@ -13,7 +13,7 @@
        at 100 and you receive an additional 5 life points, the additional 5 points will not be added 
        to your total.
 ### Jolo rules damage
-    *Attack <> Attack = damage 5
-    *Attack <> Defend = damage 10 (vice versa)
-    *Defend <> Defend = damage 10 (vice versa)
+    * Attack <> Attack = damage 5
+    * Attack <> Defend = damage 10 (vice versa)
+    * Defend <> Defend = damage 10 (vice versa)
        
